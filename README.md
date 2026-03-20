@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of employee attrition trends within an organization. Using **SQL** for data preparation and **Power BI** for visualization, the dashboard identifies key factors contributing to employee turnover, helping HR leadership make data-driven retention decisions.
 
 ## 🚀 Live Dashboard Preview
-![HR Attrition Dashboard](Screenshot 2026-03-20 205147.png)
+![HR Attrition Dashboard] (Screenshot 2026-03-20 205147.png)
 
 ---
 
